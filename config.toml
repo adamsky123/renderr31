@@ -1,0 +1,4 @@
+baseURL = "https://bluesheetmusiconlinest.vercel.app"
+languageCode = "en-us"
+title = "Blue Sheet Music 2021"
+theme = "hugo-theme-minos"
